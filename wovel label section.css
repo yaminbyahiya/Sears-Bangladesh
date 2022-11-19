@@ -46,18 +46,23 @@
 }
 
 .tab button:hover{
-    background-color: #ddd;
+    background-color: blue;
+    color: white;
 }
 .tab button.active{
-    background-color: #ccc;
+    background-color: blue;
+    color: white;
 }
 .tabcontent{
     display: none;
     padding: 6px 12px;
-    border: 1px solid #ccc;
+    /* border: 1px solid #ccc; */
     border-top: none;
     animation: fadeEffect 1s;
     -webkit-animation: fadeEffect 1s;
+    background-color: lightblue;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 @-webkit-keyframes fadeEffect{
     from  {opacity: 0;}
@@ -66,4 +71,10 @@
 @keyframes fadeEffect {
     from {opacity: 0;}
     to {opacity: 1;}
+}
+.machinename{
+    font-size: 200%;
+    background-color:white;
+    color: red;
+    border-radius: 5px;
 }
