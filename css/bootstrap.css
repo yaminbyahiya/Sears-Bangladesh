@@ -10992,6 +10992,14 @@ textarea.form-control-lg {
     font-size: 4%;
   }
 }
+@media (max-width:265px) {
+  h3{
+    font-size: 1%;
+  }
+  h5{
+    font-size: 1%;
+  }
+}
 
 
 /*# sourceMappingURL=bootstrap.css.map */
