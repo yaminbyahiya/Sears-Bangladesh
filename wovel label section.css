@@ -126,3 +126,38 @@
 .column{
     font-size: 100%;
 }
+
+@media (max-width:991px) {
+    .covername{
+        font-size: x-large;
+    }
+    .bottom_center{
+        font-size: small;
+    }
+}
+@media (max-width:767px) {
+    .bottom_center{
+        top: 60%;
+    }
+}
+@media (max-width:454px) {
+    .covername{
+        font-size: medium;
+    }
+    .bottom_center{
+        font-size: xx-small;
+    }
+}
+@media (max-width:385px) {
+    .bottom_center{
+        font-size: xx-small;
+    }
+}
+@media (max-width:302px) {
+    .covername{
+        font-size: small;
+    }
+    .bottom_center{
+        font-size: xx-small;
+    }
+}
