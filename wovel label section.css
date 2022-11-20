@@ -41,6 +41,7 @@
     margin-right: 20%;
     margin-top: 2%;
     margin-bottom: 2%;
+    justify-content: center;
 }
 
 .tab button {
@@ -159,6 +160,17 @@
     }
     .bottom_center{
         font-size: xx-small;
+    }
+}
+@media (max-width:1250px) {
+    .tab button {
+        background-color: inherit;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 14px 10px;
+        transition: 0.3s;
+        font-size: 100%;
     }
 }
 @media (max-width:1143px) {
@@ -1270,5 +1282,61 @@
         margin-right: 10%;
         margin-top: 2%;
         margin-bottom: 2%;
+    }
+}
+@media (max-width:567px) {
+    .machinename{
+        font-size: 100%;
+        background-color: white;
+        color: red;
+        border-radius: 5px;
+        padding-left: 1%;
+        padding-right: 1%;
+    }
+    .machinetitle {
+        font-size: 100%;
+        background-color: red;
+        color: white;
+        border-radius: 5px;
+        padding-left: 1%;
+        padding-right: 1%;
+    }
+    .submachinetitle {
+        font-size: 50%;
+        background-color: red;
+        color: white;
+        border-radius: 5px;
+        padding-left: 1%;
+        padding-right: 1%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+    }
+}
+@media (max-width:303px) {
+    .machinename{
+        font-size: 90%;
+        background-color: white;
+        color: red;
+        border-radius: 5px;
+        padding-left: 1%;
+        padding-right: 1%;
+    }
+    .machinetitle {
+        font-size: 90%;
+        background-color: red;
+        color: white;
+        border-radius: 5px;
+        padding-left: 1%;
+        padding-right: 1%;
+    }
+    .submachinetitle {
+        font-size: 50%;
+        background-color: red;
+        color: white;
+        border-radius: 5px;
+        padding-left: 1%;
+        padding-right: 1%;
+        padding-top: 1%;
+        padding-bottom: 1%;
     }
 }
