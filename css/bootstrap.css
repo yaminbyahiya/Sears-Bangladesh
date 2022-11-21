@@ -10914,90 +10914,162 @@ textarea.form-control-lg {
 }
 @media (max-width:782px) {
   h3{
-    font-size: 90%;
+    font-size: 100%;
   }
   h5{
-    font-size: 70%;
+    font-size: 80%;
   }
 }
 @media (max-width:702px) {
   h3{
-    font-size: 80%;
+    font-size: 90%;
   }
   h5{
-    font-size: 60%;
+    font-size: 80%;
   }
 }
 @media (max-width:646px) {
   h3{
+    font-size: 90%;
+  }
+  h5{
+    font-size: 80%;
+  }
+}
+@media (max-width:580px) {
+  h3{
+    font-size: 90%;
+  }
+  h5{
+    font-size: 75%;
+  }
+}
+@media (max-width:552px) {
+  h3{
+    font-size: 89%;
+  }
+  h5{
+    font-size: 74%;
+  }
+}
+@media (max-width:547px) {
+  h3{
+    font-size: 85%;
+  }
+  h5{
+    font-size: 70%;
+  }
+}
+@media (max-width:527px) {
+  h3{
+    font-size: 80%;
+  }
+  h5{
+    font-size: 65%;
+  }
+}
+@media (max-width:502px) {
+  h3{
+    font-size: 75%;
+  }
+  h5{
+    font-size: 60%;
+  }
+}
+@media (max-width:477px) {
+  h3{
     font-size: 70%;
   }
   h5{
-    font-size: 50%;
+    font-size: 60%;
   }
 }
-@media (max-width:591px) {
+@media (max-width:453px) {
   h3{
     font-size: 60%;
   }
   h5{
-    font-size: 40%;
+    font-size:50%;
   }
 }
-@media (max-width:537px) {
+@media (max-width:434px) {
+  h3{
+    font-size: 55%;
+  }
+  h5{
+    font-size:50%;
+  }
+}
+@media (max-width:417px) {
   h3{
     font-size: 50%;
   }
   h5{
-    font-size: 30%;
+    font-size:45%;
   }
 }
-@media (max-width:481px) {
+@media (max-width:390px) {
+  h3{
+    font-size: 45%;
+  }
+  h5{
+    font-size:40%;
+  }
+}
+@media (max-width:390px) {
   h3{
     font-size: 40%;
   }
   h5{
-    font-size: 20%;
+    font-size:35%;
   }
 }
-@media (max-width:426px) {
+@media (max-width:338px) {
+  h3{
+    font-size: 35%;
+  }
+  h5{
+    font-size:30%;
+  }
+}
+@media (max-width:314px) {
   h3{
     font-size: 30%;
   }
   h5{
-    font-size: 10%;
+    font-size:25%;
   }
 }
-@media (max-width:371px) {
+@media (max-width:290px) {
   h3{
     font-size: 25%;
   }
   h5{
-    font-size: 5%;
+    font-size:20%;
   }
 }
-@media (max-width:343px) {
+@media (max-width:266px) {
   h3{
-    font-size: 2%;
+    font-size: 20%;
   }
   h5{
-    font-size: 5%;
+    font-size:15%;
   }
 }
-@media (max-width:270px) {
+@media (max-width:242px) {
   h3{
-    font-size: 1%;
+    font-size: 15%;
   }
   h5{
-    font-size: 4%;
+    font-size:10%;
   }
 }
-@media (max-width:265px) {
+@media (max-width:218px) {
   h3{
-    font-size: 14%;
+    font-size: 10%;
   }
   h5{
-    font-size:2%;
+    font-size:5%;
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
